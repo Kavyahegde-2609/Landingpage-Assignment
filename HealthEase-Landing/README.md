@@ -1,4 +1,4 @@
-# HealthEase Landing Page
+## HealthEase Landing Page
 A React-based landing page for smart healthcare and emergency response.
 
 ##  Project Description
