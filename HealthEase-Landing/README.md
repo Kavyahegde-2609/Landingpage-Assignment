@@ -1,6 +1,5 @@
 # HealthEase Landing Page
-
-This is a responsive landing page built using **React.js and Vite**.
+A React-based landing page for smart healthcare and emergency response.
 
 ##  Project Description
 HealthEase is a healthcare-themed landing page designed to showcase:
