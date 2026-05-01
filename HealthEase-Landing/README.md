@@ -1,33 +1,48 @@
-# Landing Page Assignment
+# Landing Page Assessment
 
 ## Project Overview
-This project is a simple landing page created as part of an academic assignment.
-The goal of the project was to understand basic frontend development concepts
-such as page layout, styling, and responsive design.
+This project is a responsive landing page developed as part of an internship assessment.
 
-## Objectives
-- Learn HTML structure and semantic tags
-- Practice CSS styling and layout techniques
-- Understand how a landing page is organized
-- Improve visual presentation of a webpage
+The goal of this project was to design and build a modern user interface using component-based frontend development, responsive design principles, and interactive styling.
+
+## Features
+- Responsive design
+- Modern UI with animations
+- Interactive sections and hover effects
+- Component-based architecture
+- Mobile-friendly layout
 
 ## Technologies Used
-- HTML
-- CSS
+- React.js
+- Vite
+- JavaScript (ES6+)
+- CSS3
 
 ## Project Type
-Academic / Learning Project
+Internship Assessment Project
 
 ## How to Run
-1. Download or clone the repository
-2. Open the `index.html` file in a web browser
+
+1. Clone the repository
+```bash
+git clone <https://github.com/Kavyahegde-2609/Landingpage-Assignment>
+```
+
+2. Install dependencies
+```bash
+npm install
+```
+
+3. Run the project
+```bash
+npm run dev
+```
 
 ## Learning Outcomes
-- Improved understanding of webpage structure
-- Basic knowledge of styling and alignment
-- Hands-on experience with frontend development basics
+- Improved understanding of React components
+- Better knowledge of responsive UI design
+- Hands-on experience with frontend project structuring
+- Practical experience in CSS animations and styling
 
-## Academic Note
-This project was developed for learning purposes.
-The implementation was created with the help of AI tools
-and online references to understand frontend concepts.
+## Note
+This project was developed for learning and internship assessment purposes.
